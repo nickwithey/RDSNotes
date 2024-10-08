@@ -1,0 +1,12 @@
+RDS Easy Create...
+
+is this fully managed ?
+
+DB instance sizes - 2 options ?
+
+Instance Name ?
+
+Credential Management ?
+
+List of default options - snip..
+

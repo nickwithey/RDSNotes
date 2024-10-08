@@ -1,0 +1,37 @@
+RDS Custom - manages instance and gives privilege access to the OS.
+
+Standard Create - only one that allows option for RDS or RDS Custom
+
+Edition - Standard/Enterprise
+
+Version - could have version e.g. 16.00.4140.3.v.1
+
+Templates - Production or Dev/Test  - not feasible.
+
+Instance Name
+
+Master username - won't be an option - will either have to logon with sa (renamed) or windows authentication
+
+auto-generate password for master username 
+
+Instance Configuration - VM sizes
+
+Storage Options - IaaS controlled
+
+Allocated storage - e.g. 100GB for user db
+
+Create standby instance Y/N
+
+NSX
+
+Port Number
+
+Database Encryption
+
+Collation
+
+Automated backups
+
+Maintenance windows - DBCC or patching ?
+
+

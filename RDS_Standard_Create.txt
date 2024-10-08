@@ -1,0 +1,52 @@
+RDS Standard Create...
+
+Management Type 
+	RDS - fully managed instance including automatic patching. Choose this option if no customisation is required
+
+	RDS Custom - database is managed but privilege access is given to OS.
+Used to customise db (instance), OS and infrastructure.
+
+Edition - Standard/Enterprise
+
+Licence included ?
+
+Engine version : SQL 2019/2022 - possible to have detailed version e.g. 15.00.4390.2 - this needs RTM version - this will need more work - may not be worth it,
+
+Production or Dev /Test
+
+Instance Name
+
+Credentials Management - currently manually handled.
+
+Allocated storage - apps volume only - what about tempdb etc./ tlogs/backups
+
+how is storage autoscaled ?  CTX
+
+Multi AZ deployment ?
+
+NSX - automatic - needs port number
+
+SSL ?
+
+Port ?
+
+SQL or Mixed Mode Authentication - will need AD details ?
+
+Integrate into Monitoring - Y/N
+
+Collation ?
+
+Automated Backups..
+
+Automated Maintenance - DBCC etc.
+
+DB Encryption ?
+
+
+
+
+
+
+
+
+
